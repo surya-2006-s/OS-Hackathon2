@@ -1,4 +1,5 @@
 # Process Lifecycle Analyzer & Scheduler Simulator
+**Submitted by: Surya**
 
 A Python-based learning tool for process management and CPU scheduling. It captures simulated process creation events in real time and compares three scheduling algorithms:
 
